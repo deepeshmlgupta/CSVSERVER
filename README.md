@@ -109,3 +109,6 @@
    ```bash
    https://192.168.0.18:9090
    ```
+
+
+Individual Solution of each part are present in the solution folder
